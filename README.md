@@ -5,9 +5,9 @@ I am Iradukunda Sangwa Cedric, a passionate web developer and lifelong learner. 
 As a web developer, I thrive on the challenge of building systems that make a difference. My attention to detail and commitment to innovation drive me to create solutions that not only work efficiently but also improve lives.
 
 ## 🔹 Talking about Personal Stuff:
-👨‍🎓 I'm a third-year Information Systems student at the University of Rwanda  
+👨‍🎓 I'm final-year Information Systems student at the University of Rwanda  
 👨‍💻 Completed an apprenticeship at Andela from February to November, where I enhanced my software development skills  
-👨‍💻 Currently pursuing the **AFTRETEC Web Development Program** to deepen my expertise in full-stack development  
+👨‍💻 Completed the **AFTRETEC Web Development Program** to deepen my expertise in full-stack development  
 💻 Experienced full-stack developer specializing in Node.js, Python, FastAPI, JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS, and Redux  
 💬 Ask me about anything; I love working with others to solve tech problems  
 👯 I enjoy collaborating with tech enthusiasts on innovative projects  
